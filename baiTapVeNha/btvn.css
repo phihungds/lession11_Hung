@@ -68,7 +68,10 @@ td {
 #dongcuoi {
     color: blue;
     font-style: italic;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
     margin-left: 331px;
     margin-right: 310px;
+    padding: 4px;
 }
 
